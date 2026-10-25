@@ -9,7 +9,7 @@ The **ApnoMart Business Intelligence Dashboard** is an interactive sales analysi
 - **Microsoft Power BI Desktop**
 ## 📈 Dashboard Features
 
-# Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 Total Sales: 16.26M
 
@@ -21,7 +21,7 @@ Profit Margin: 27.18%
 
 Total Quantity: 6,736
 
-# Visualizations
+### Visualizations
 
 Sales by Category: Compares sales performance across product categories.
 
